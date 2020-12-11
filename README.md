@@ -5,9 +5,9 @@ motorvehicle and nonmotorvehicle extraction from video
 
 2.file structure:  
 |model_server  
-    |CaptureVideo  
-    |model  
-    |video_object_extraction_server
+        |CaptureVideo  
+        |model  
+        |video_object_extraction_server
 
 
 3.how to use:
