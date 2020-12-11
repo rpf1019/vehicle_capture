@@ -4,7 +4,7 @@ motorvehicle and nonmotorvehicle extraction from video
 1.model path & video decode package path is baidunetdisk, ask me for it.
 
 2.file structure:
-model_server
+|model_server
     |CaptureVideo
     |model
     |video_object_extraction_server
