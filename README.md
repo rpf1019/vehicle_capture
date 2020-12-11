@@ -1,7 +1,9 @@
 # vehicle_capture
 motorvehicle and nonmotorvehicle extraction from video
 
-1.model path & video decode package path is baidunetdisk, ask me for it.
+1.model path & video decode package path 
+链接：https://pan.baidu.com/s/11vmdIvLTaXzZqSeEmQn9TA 
+提取码：58wy 
 
 2.file structure:  
 |model_server  
