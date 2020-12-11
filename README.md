@@ -11,6 +11,6 @@ model_server
 
 
 3.how to use:
-cd model_server/video_object_extraction_server
-python3 mode_server.py 9700
-python2 model_client.py 9700 videos_dir
+1)cd model_server/video_object_extraction_server
+2)python3 mode_server.py 9700
+3)python2 model_client.py 9700 videos_dir
